@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1oJQxyeLfyd39H6JeKlkcEIkoyRdOJ-RV/preview)
+![Example Image](https://drive.google.com/uc?id=1oJQxyeLfyd39H6JeKlkcEIkoyRdOJ-RV)
 
 ## About me
 Process-minded technology professional that can bridge the communication gap between corporate, field, and IT resources. Experienced in a range of languages, platforms, and environments, I am most comfortable providing full-stack, web-based applications in support of process stakeholders and field users.
